@@ -15,7 +15,5 @@
 ### Not compatiable with the Oculus PC version of the game:
 <img width="186" height="71" alt="Screenshot 2026-07-11 003726" src="https://github.com/user-attachments/assets/082551b9-5be3-4874-8f08-9a08fd7cd622" />
 
-
-
-
+#### In case it isn't clear it IS compatiable with oculus headsets as long as its the steamvr version of the game
 
