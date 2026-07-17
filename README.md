@@ -2,6 +2,8 @@
 #### Really simple info mod thing which shows fps, ping and your hmd (steamvr only for hmd)
 
 # Shows your hmd:
+<img width="301" height="91" alt="image" src="https://github.com/user-attachments/assets/a17f2fb1-6866-42fd-a543-6d589bd9f1ff" />
+<br>
 <img width="335" height="126" alt="Screenshot 2026-07-11 001146" src="https://github.com/user-attachments/assets/9e444a4a-f9f7-421b-a434-0fdc9a1c4989" />
 <br>
 <img width="246" height="108" alt="Screenshot 2026-07-11 001625" src="https://github.com/user-attachments/assets/47ed66d1-b714-48a5-8f0f-cf9251bedf84" />
